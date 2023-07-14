@@ -1,5 +1,6 @@
 # Detection of Lung Infection
-<src = "img p-5.jpg" alt="Mercedes-Benz">
+<img src="p-5.jpg" alt="lungs" >
+
 
 ## Description
 
