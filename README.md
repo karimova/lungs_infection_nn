@@ -26,9 +26,7 @@ The dataset contains three different classes, including healthy, type 1 disease,
 - Train folder: This folder has images for training the model, which is divided into subfolders having the same name as the class. 
 - Test folder: This folder has images for testing the model, which is divided into subfolders having the same name as the class.
 
-## Operations to be Performed
-
-Following operations should be performed using Keras or PyTorch or TorchVision:
+## Operations were Performed (Keras)
 
 1. Import the necessary libraries.
 2. Plot the sample images for all the classes.
@@ -37,7 +35,7 @@ Following operations should be performed using Keras or PyTorch or TorchVision:
 5. Build a data augmentation for the test data to create new data and rescale the image at 48x48.
 6. Read images directly from the train folder and test folder using the appropriate function.
 
-## Build 3 CNN Models
+## Build CNN Models
 
 For each CNN model:
 
