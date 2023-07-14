@@ -1,5 +1,5 @@
 # Detection of Lung Infection
-<img src="p-5.jpg" alt="lungs" >
+<img src="p-5.jpg" alt="lungs" width="600">
 
 
 ## Description
