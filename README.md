@@ -2,9 +2,16 @@
 
 ## Description
 
-Artificial Intelligence has evolved a lot and is currently able to solve problems that are very complex and require human specialization. One such area is healthcare.
+Artificial Intelligence (AI) has made significant advancements and has demonstrated its capability to tackle complex problems that traditionally required human expertise. One prominent domain where AI has shown great potential is healthcare.
 
-A lot of research happens every day to use deep learning for the betterment of humanity, and one such is healthcare.
+In healthcare, extensive research is conducted daily to harness the power of deep learning algorithms for the betterment of humanity. Deep learning techniques have shown promising results in various healthcare applications, including disease diagnosis and medical image analysis.
+
+This project focuses on the detection of lung infection using a convolutional neural network (CNN). By leveraging AI and medical imagery, the goal is to develop a model that can accurately classify lung infection in individuals. The dataset used for training and testing contains images categorized into three classes: healthy, type 1 disease, and type 2 disease.
+
+The project encompasses various tasks, including data preprocessing, data augmentation, building and training CNN models, and evaluating their performance based on metrics such as accuracy, precision, recall, and F1-score. Additionally, transfer learning techniques using pre-trained models such as MobileNet and DenseNet121 are employed to enhance the model's performance.
+
+The ultimate aim of this project is to contribute to the advancement of AI in healthcare by developing an effective model for the early detection of lung infection, thereby facilitating timely medical interventions and improving patient outcomes.
+
 
 ## Objective
 
